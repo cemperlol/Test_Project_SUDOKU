@@ -1,8 +1,5 @@
 ﻿  Source.cpp
-C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(341,64): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(377,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(377,52): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(384,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(420,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(436,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(35,29): warning C4244: =: преобразование "double" в "unsigned short", возможна потеря данных
+C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(242,68): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Baxeo\source\repos\SUDOKU\Project1\Source.cpp(442,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   Project1.vcxproj -> C:\Users\Baxeo\source\repos\SUDOKU\Debug\Project1.exe
